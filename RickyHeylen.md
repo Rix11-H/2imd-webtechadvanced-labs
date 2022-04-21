@@ -18,6 +18,9 @@
 > Weather x Music API [Link to the codeSandbox](https://codesandbox.io/s/confident-gauss-yp49mw)
 <img src="https://media.giphy.com/media/jr0vhfFQ0OyBkuROpi/giphy.gif" height="250"/>
 
+* ## Lab 5 - [Visit repository](https://github.com/Rix11-H/2imd-dev-lab5)
+> [Link to the codepen tester](https://codepen.io/Rix11/pen/gOoEvVL)
+
 * ## Lab 6 - [Visit repository](https://github.com/Rix11-H/live-scoreboard-app)
 > [Check it out with Heroku!](https://quidditch-scoreboard.herokuapp.com/)
 
